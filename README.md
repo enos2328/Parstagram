@@ -2,7 +2,7 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -23,4 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/8mXw8Il.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Notes
+I've been having a lot of issues with this project. It took a very long time to install node (for npm command) and the parse-dashboard because of errors I've been getting. I finally figured out the errors and got it to work until I got SIGBRT errors that I can't seem to fix. I will speak with TA
